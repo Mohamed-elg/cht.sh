@@ -9,4 +9,5 @@ Simple go wrapper for [cht.sh](https://cht.sh)
 ### Usage
 
 `./cht [technology] [subject1] [subject2]`
-`./cht go while`
+
+example : `./cht go while`
