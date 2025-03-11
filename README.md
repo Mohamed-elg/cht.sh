@@ -2,12 +2,6 @@
 
 Simple go wrapper for [cht.sh](https://cht.sh)
 
-### Build
+## Installation
 
-`go build -o cht` then `./cht`
-
-### Usage
-
-`./cht [technology] [subject1] [subject2]`
-
-example : `./cht go while`
+`go install github.com/Mohamed-elg/cht.sh` then run it with `cht.sh`
